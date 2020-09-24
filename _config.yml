@@ -83,12 +83,11 @@ toc:
 
 #### Links
 links:
-  开源中国: https://www.oschina.net
+  开源中国: https://gitee.com
   stackoverflow: http://stackoverflow.com
 
-
 #### Comment
-duoshuo_shortname: linyu    ## e.g. wuchong   your duoshuo short name.
+duoshuo_shortname: 道不远人    ## e.g. wuchong   your duoshuo short name.
 disqus_shortname:     ## e.g. wuchong   your disqus short name.
 
 #### Share button
